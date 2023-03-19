@@ -1,0 +1,34 @@
+header {
+    background-color: #F6C8DC;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 36px;
+    font-weight: normal;
+  }
+  
+  main {
+    margin: 20px;
+  }
+  
+  section {
+    margin: 20px 0;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: normal;
+  }
+  
+  label {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  input, select {
+    margin: 10px 0;
+    padding: 5px;
+  }
+  
